@@ -1,0 +1,24 @@
+{
+  "name": "domains-example-gulpfile",
+  "version": "0.0.0",
+  "description": "Catch errors like nobody's business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phated/domains-example-gulpfile"
+  },
+  "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phated/domains-example-gulpfile/issues"
+  },
+  "homepage": "https://github.com/phated/domains-example-gulpfile",
+  "devDependencies": {
+    "gulp": "~3.4.0",
+    "gulp-util": "~2.2.12",
+    "chalk": "~0.4.0"
+  }
+}
