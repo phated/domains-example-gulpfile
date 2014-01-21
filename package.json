@@ -19,6 +19,7 @@
   "devDependencies": {
     "gulp": "~3.4.0",
     "gulp-util": "~2.2.12",
-    "chalk": "~0.4.0"
+    "chalk": "~0.4.0",
+    "event-stream": "~3.1.0"
   }
 }
